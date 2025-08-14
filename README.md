@@ -17,14 +17,14 @@ Este projeto é uma API backend desenvolvida para o teste técnico da vaga de de
 
 ## Intuito do Projeto
 
-Automatizar a geração de insights de marketing e negócios utilizando dados do HubSpot e inteligência artificial Gemini, expondo endpoints REST documentados via Swagger.
+Automatizar a geração de insights de marketing e negócios utilizando dados de ferramentas de marketing e inteligência artificial (gemini, openai...), expondo endpoints REST documentados via Swagger.
 
 ## Como Configurar
 
 1. **Clone o repositório:**
    ```bash
    git clone <url-do-repo>
-   cd desafio-elephan
+   cd Elephan-co-worker
    ```
 
 2. **Abra no VS Code usando Dev Containers:**
