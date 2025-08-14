@@ -1,0 +1,218 @@
+[
+  {
+    "engagement": {
+      "id": 85958305884,
+      "portalId": 50370222,
+      "active": true,
+      "createdAt": 1755107993850,
+      "lastUpdated": 1755107995807,
+      "ownerId": 82389063,
+      "type": "INCOMING_EMAIL",
+      "uid": "ee729cd4d49f728e7474f05eea57d59b",
+      "timestamp": 1755107958000,
+      "source": "EMAIL_INTEGRATION",
+      "allAccessibleTeamIds": [],
+      "bodyPreview": "Ok, recebido. Att. Tonny Weslley Silva de Souza. Desenvolvedor no Laboratório de Inovação Tecnológica em Saúde - LAIS. Técnico em Informática formado pelo IFRN (2021). Analista e Desenvolvedor de Sistemas IFRN 5/6.",
+      "queueMembershipIds": [],
+      "bodyPreviewIsTruncated": true,
+      "bodyPreviewHtml": "<html>\n <head></head>\n <body>\n <div style=\"font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\n Ok, recebido. \n </div> \n <div style=\"font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"> \n <br> \n </div> \n <div id=\"Signature\"> \n <div style=\"font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"> \n <br> \n </div> \n <div style=\"font-family: Tahoma, Geneva, sans-serif; font-size: 10pt; color: rgb(0, 0, 0);\"> \n <span style=\"background-color: rgb(255, 255, 255);\">Att.</span> \n </div> \n <div style=\"font-family: Tahoma, Geneva, sans-serif; font-size: 10pt; color: rgb(0, 0, 0);\">\n Tonny Weslley Silva de Souza. \n </div> \n <div style=\"font-family: Tahoma, Geneva, sans-serif; font-size: 10pt; color: rgb(0, 0, 0);\">\n Desenvolvedor no Laboratório de Inovação Tecnológica em Saúde - LAIS. \n </div> \n <div style=\"font-family: Tahoma, Geneva, sans-serif; font-size: 10pt; color: rgb(0, 0, 0);\">\n Técnico em Informática formado pelo IFRN (2021). \n </div> \n <div style=\"font-family: Tahoma, Geneva, sans-serif; font-size: 10pt; color: rgb(0, 0, 0);\"> \n <span style=\"background-color: rgb(255, 255, 255);\">Analista e Desenvolvedor de Sistemas IFRN 5/6.</span> \n </div> \n <div style=\"background-color: rgb(255, 255, 255);\"></div> \n </div> \n <div id=\"appendonsend\"></div> \n <hr style=\"display:inline-block;width:98%\" tabindex=\"-1\">\n </body>\n</html>"
+    },
+    "associations": {
+      "contactIds": [
+        146471337550
+      ],
+      "companyIds": [],
+      "dealIds": [],
+      "ownerIds": [],
+      "workflowIds": [],
+      "ticketIds": [],
+      "contentIds": [],
+      "quoteIds": [],
+      "marketingEventIds": [],
+      "partnerClientIds": [],
+      "orderIds": [],
+      "cartIds": []
+    },
+    "attachments": [],
+    "metadata": {
+      "from": {
+        "raw": "EmailAddress{name=tonny weslley, address=**REDACTED**, valid=true}",
+        "email": "tonnyweslley@outlook.com",
+        "firstName": "Tonny",
+        "lastName": "Weslley"
+      },
+      "to": [
+        {
+          "raw": "EmailAddress{name=Tonny Weslley, address=**REDACTED**, valid=true}",
+          "email": "tonnyweslleyss@gmail.com",
+          "firstName": "Tonny",
+          "lastName": "Weslley"
+        }
+      ],
+      "cc": [],
+      "bcc": [],
+      "sender": {
+        "email": "tonnyweslleyss@gmail.com"
+      },
+      "subject": "RE: Abra Seu negocio",
+      "html": "<html>\n<head> \n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"> \n</head> \n<body dir=\"ltr\"> \n<div style=\"font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\n Ok, recebido. \n</div> \n<div style=\"font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"> \n<br> \n</div> \n<div id=\"Signature\"> \n<div style=\"font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\"> \n<br> \n</div> \n<div style=\"font-family: Tahoma, Geneva, sans-serif; font-size: 10pt; color: rgb(0, 0, 0);\"> \n<span style=\"background-color: rgb(255, 255, 255);\">Att.</span> \n</div> \n<div style=\"font-family: Tahoma, Geneva, sans-serif; font-size: 10pt; color: rgb(0, 0, 0);\">\n Tonny Weslley Silva de Souza. \n</div> \n<div style=\"font-family: Tahoma, Geneva, sans-serif; font-size: 10pt; color: rgb(0, 0, 0);\">\n Desenvolvedor no Laboratório de Inovação Tecnológica em Saúde - LAIS. \n</div> \n<div style=\"font-family: Tahoma, Geneva, sans-serif; font-size: 10pt; color: rgb(0, 0, 0);\">\n Técnico em Informática formado pelo IFRN (2021). \n</div> \n<div style=\"font-family: Tahoma, Geneva, sans-serif; font-size: 10pt; color: rgb(0, 0, 0);\"> \n<span style=\"background-color: rgb(255, 255, 255);\">Analista e Desenvolvedor de Sistemas IFRN 5/6.</span> \n</div> \n<div style=\"background-color: rgb(255, 255, 255);\"></div> \n</div> \n<div id=\"appendonsend\"></div> \n<hr style=\"display:inline-block;width:98%\" tabindex=\"-1\"> \n<div id=\"divRplyFwdMsg\" dir=\"ltr\"> \n<font face=\"Calibri, sans-serif\" style=\"font-size:11pt\" color=\"#000000\"><b>De:</b> Tonny Weslley &lt;tonnyweslleyss@gmail.com&gt;<br> <b>Enviado:</b> quarta-feira, 13 de agosto de 2025 14:58<br> <b>Para:</b> Tonny Weslley &lt;tonnyweslley@outlook.com&gt;<br> <b>Assunto:</b> Abra Seu negocio</font> \n<div>\n &nbsp; \n</div> \n</div> \n<div> \n<div dir=\"auto\" style=\"font-family:sans-serif; color:#444444\"> \n<p style=\"margin:0\"><span style=\"font-size:11pt\">fala com a gente :)</span></p> \n<br> \n<br> \n<div style=\"color:#33475b; font-family:sans-serif; font-weight:400; font-size:14px\">\n -- \n<br> \n<span><span>Prefere receber menos e-mails de mim? Clique em</span>&nbsp;<a href=\"https://d5XVLW04.na1.hs-salescrm-sub.com/preferences/pt-br/manage?data=W2nXS-N30h-GnW1BDbg12Pw_SVW3_T9Kx4tkcc9W2zPDCg2TPdF7W3Fdv372FY2lRW2p5Stf41KS3vW2vMTF-3jf37SW3DT7x71ScnczW4mlHTf3dpTSKW3VG67P3ZP8DrW2TMtKj1NdHbgW3jwjGW3bgC8-W4kC_DC3N_99CW3QRKB038gMPcW3_HYmC2FrvDHW3SyrdL3LHmV1W4hDKNZ3LFc5SW2RtR5Z1Sb-Z0W4pG7k11Xx-gHW4kK1Pl3M9Q-LW3gfkXH21mZJwW3QzvY22B2njXW32q4pm3M2HRhW4rvCpH1Sxr70W2Thww72KSvfVW3SSgHh3dv1MFW4ph_My1QyyDzW1LnnJ03ZTJFjW1LC2Yl2FG7pBW30LJDG3VHhPtW3g7VWD2MXYxKW25gxVR3gwszVW2WGJrf4r6dbKW1N5F2r1Bp6YGW1BLZ6Q3Q_2l7W30DqcX3ZM56zW3d2gTq3h-3Lwf34f2wQ04\">aqui</a></span> \n</div> \n<div class=\"x_email-branding-component\"> \n<div> \n<img width=\"22\" height=\"22\" style=\"display:inline-block; max-width:22px; vertical-align:middle\" src=\"https://static.hsappstatic.net/hubspot-prosemirror-plugins/static-1.10884/images/sprocket-web-color.png\"> \n<small style=\"color:#516f90; outline-color:#516f90; font-size:12px; line-height:1.125rem; font-family:apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; text-align:start; vertical-align:middle\"> <span>Desenvolvido pela <a href=\"https://app.hubspot.com/signup-hubspot/sales?uuid=e9b46de2-5afc-422d-8ead-23faedbb89e3&amp;utm_medium=virality&amp;utm_campaign=hubspot-email-plugin-virality\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"> HubSpot</a>.</span><span><img style=\"display:none\" src=\"https://api-na1.hubspot.com/contentproxy/v1/proxy/redirect?portalId=50370222&amp;url=https://api.hubspot.com/viral-links/v1/tracking?viralLinkType%3Demail-plugin%26deviceId%3De9b46de2-5afc-422d-8ead-23faedbb89e3%26isExternalLink%3Dtrue%26hubId%3D50370222\" data-original-src=\"https://api.hubspot.com/viral-links/v1/tracking?viralLinkType=email-plugin&amp;deviceId=e9b46de2-5afc-422d-8ead-23faedbb89e3&amp;isExternalLink=true&amp;hubId=50370222\" data-use-proxy=\"true\"></span></small> \n</div> \n</div> \n</div>  \n</div>  \n</body>\n</html>",
+      "text": "Ok, recebido.\r\n\r\n\r\nAtt.\r\nTonny Weslley Silva de Souza.\r\nDesenvolvedor no Laboratório de Inovação Tecnológica em Saúde - LAIS.\r\nTécnico em Informática formado pelo IFRN (2021).\r\nAnalista e Desenvolvedor de Sistemas IFRN 5/6.\r\n________________________________\r\nDe: Tonny Weslley <tonnyweslleyss@gmail.com>\r\nEnviado: quarta-feira, 13 de agosto de 2025 14:58\r\nPara: Tonny Weslley <tonnyweslley@outlook.com>\r\nAssunto: Abra Seu negocio\r\n\r\n\r\nfala com a gente :)\r\n\r\n\r\n--\r\nPrefere receber menos e-mails de mim? Clique em aqui<https://d5XVLW04.na1.hs-salescrm-sub.com/preferences/pt-br/manage?data=W2nXS-N30h-GnW1BDbg12Pw_SVW3_T9Kx4tkcc9W2zPDCg2TPdF7W3Fdv372FY2lRW2p5Stf41KS3vW2vMTF-3jf37SW3DT7x71ScnczW4mlHTf3dpTSKW3VG67P3ZP8DrW2TMtKj1NdHbgW3jwjGW3bgC8-W4kC_DC3N_99CW3QRKB038gMPcW3_HYmC2FrvDHW3SyrdL3LHmV1W4hDKNZ3LFc5SW2RtR5Z1Sb-Z0W4pG7k11Xx-gHW4kK1Pl3M9Q-LW3gfkXH21mZJwW3QzvY22B2njXW32q4pm3M2HRhW4rvCpH1Sxr70W2Thww72KSvfVW3SSgHh3dv1MFW4ph_My1QyyDzW1LnnJ03ZTJFjW1LC2Yl2FG7pBW30LJDG3VHhPtW3g7VWD2MXYxKW25gxVR3gwszVW2WGJrf4r6dbKW1N5F2r1Bp6YGW1BLZ6Q3Q_2l7W30DqcX3ZM56zW3d2gTq3h-3Lwf34f2wQ04>\r\n[https://static.hsappstatic.net/hubspot-prosemirror-plugins/static-1.10884/images/sprocket-web-color.png] Desenvolvido pela HubSpot<https://app.hubspot.com/signup-hubspot/sales?uuid=e9b46de2-5afc-422d-8ead-23faedbb89e3&utm_medium=virality&utm_campaign=hubspot-email-plugin-virality>.[https://api.hubspot.com/viral-links/v1/tracking?viralLinkType=email-plugin&deviceId=e9b46de2-5afc-422d-8ead-23faedbb89e3&isExternalLink=true&hubId=50370222]",
+      "messageId": "<DS0PR12MB7850286E49509C6CA41F40DBC32AA@DS0PR12MB7850.namprd12.prod.outlook.com>",
+      "threadId": "fb3c9588058826282cd7aa5b68fafe59",
+      "emailSendEventId": {},
+      "loggedFrom": "FACSIMILE",
+      "validationSkipped": [],
+      "mediaProcessingStatus": "PROCESSED",
+      "attachedVideoOpened": false,
+      "attachedVideoWatched": false,
+      "pendingInlineImageIds": [],
+      "bounceErrorDetail": {},
+      "ownerIdsFrom": [],
+      "ownerIdsTo": [
+        82389063
+      ],
+      "ownerIdsCc": [],
+      "ownerIdsBcc": [],
+      "associatedContactId": 146471337550,
+      "incomingEmailIsOutOfOffice": false
+    }
+  },
+  {
+    "engagement": {
+      "id": 85973886777,
+      "portalId": 50370222,
+      "active": true,
+      "createdAt": 1755108039393,
+      "lastUpdated": 1755108063410,
+      "createdBy": 82389063,
+      "modifiedBy": 82389063,
+      "ownerId": 82389063,
+      "type": "TASK",
+      "timestamp": 1755514800000,
+      "source": "CRM_UI",
+      "allAccessibleTeamIds": [],
+      "bodyPreview": "Criar estrategia de marketing para a proxima semana",
+      "queueMembershipIds": [],
+      "bodyPreviewIsTruncated": false,
+      "bodyPreviewHtml": "<html>\n <head></head>\n <body>\n <div style=\"\" dir=\"auto\" data-top-level=\"true\"> \n <p style=\"margin:0;\">Criar estrategia de marketing para a proxima semana</p> \n </div>\n </body>\n</html>"
+    },
+    "associations": {
+      "contactIds": [
+        146135181215
+      ],
+      "companyIds": [
+        37759380993
+      ],
+      "dealIds": [
+        41880313172
+      ],
+      "ownerIds": [],
+      "workflowIds": [],
+      "ticketIds": [],
+      "contentIds": [],
+      "quoteIds": [],
+      "marketingEventIds": [],
+      "partnerClientIds": [],
+      "orderIds": [],
+      "cartIds": []
+    },
+    "attachments": [],
+    "scheduledTasks": [],
+    "metadata": {
+      "body": "<div style=\"\" dir=\"auto\" data-top-level=\"true\"><p style=\"margin:0;\">Criar estrategia de marketing para a proxima semana</p></div>",
+      "status": "NOT_STARTED",
+      "forObjectType": "OWNER",
+      "subject": "Engajar clientes",
+      "taskType": "TODO",
+      "reminders": [],
+      "sendDefaultReminder": false,
+      "priority": "NONE",
+      "isAllDay": false
+    }
+  },
+  {
+    "engagement": {
+      "id": 86009864311,
+      "portalId": 50370222,
+      "active": true,
+      "createdAt": 1755107901279,
+      "lastUpdated": 1755143235527,
+      "createdBy": 82389063,
+      "modifiedBy": 82389063,
+      "ownerId": 82389063,
+      "type": "EMAIL",
+      "uid": "622fbd8ffd4f059deb3c337981c942cc",
+      "timestamp": 1755107901167,
+      "source": "EMAIL_INTEGRATION",
+      "allAccessibleTeamIds": [],
+      "bodyPreview": "fala com a gente :) -- Prefere receber menos e-mails de mim? Clique em aqui Desenvolvido pela HubSpot.",
+      "queueMembershipIds": [],
+      "bodyPreviewIsTruncated": false,
+      "bodyPreviewHtml": "<html>\n <head></head>\n <body>\n <div style=\"font-family: sans-serif;color: #444444;\" dir=\"auto\" data-top-level=\"true\"> \n <p style=\"margin:0;\"><span style=\"font-size: 11pt;\">fala com a gente :)</span></p> \n <br> \n <br> \n <div data-unsubscribe=\"true\" style=\"color: #33475b; font-family: sans-serif; font-weight: 400; font-size: 14px;\">\n -- \n <br> \n <span><span>Prefere receber menos e-mails de mim? Clique em</span>&nbsp;<a href=\"https://d5XVLW04.na1.hs-salescrm-sub.com/preferences/pt-br/manage?data=W2nXS-N30h-GnW1BDbg12Pw_SVW3_T9Kx4tkcc9W2zPDCg2TPdF7W3Fdv372FY2lRW2p5Stf41KS3vW2vMTF-3jf37SW3DT7x71ScnczW4mlHTf3dpTSKW3VG67P3ZP8DrW2TMtKj1NdHbgW3jwjGW3bgC8-W4kC_DC3N_99CW3QRKB038gMPcW3_HYmC2FrvDHW3SyrdL3LHmV1W4hDKNZ3LFc5SW2RtR5Z1Sb-Z0W4pG7k11Xx-gHW4kK1Pl3M9Q-LW3gfkXH21mZJwW3QzvY22B2njXW32q4pm3M2HRhW4rvCpH1Sxr70W2Thww72KSvfVW3SSgHh3dv1MFW4ph_My1QyyDzW1LnnJ03ZTJFjW1LC2Yl2FG7pBW30LJDG3VHhPtW3g7VWD2MXYxKW25gxVR3gwszVW2WGJrf4r6dbKW1N5F2r1Bp6YGW1BLZ6Q3Q_2l7W30DqcX3ZM56zW3d2gTq3h-3Lwf34f2wQ04\">aqui</a></span> \n </div> \n <div class=\"email-branding-component\" data-hs-branding=\"true\"> \n <div> \n <img src=\"https://static.hsappstatic.net/hubspot-prosemirror-plugins/static-1.10884/images/sprocket-web-color.png\" style=\"display:inline-block;max-width:22px;vertical-align:middle\" width=\"22\" height=\"22\"> \n <small style=\"color:#516f90;outline-color:#516f90;font-size:12px;line-height:1.125rem;font-family:apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;text-align:start;vertical-align:middle\"><span>Desenvolvido pela <a href=\"https://app.hubspot.com/signup-hubspot/sales?uuid=e9b46de2-5afc-422d-8ead-23faedbb89e3&amp;utm_medium=virality&amp;utm_campaign=hubspot-email-plugin-virality\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">HubSpot</a>.</span><span><img src=\"https://api.hubspot.com/viral-links/v1/tracking?viralLinkType=email-plugin&amp;deviceId=e9b46de2-5afc-422d-8ead-23faedbb89e3&amp;isExternalLink=true&amp;hubId=50370222\" style=\"display:none\"></span></small> \n </div> \n </div> \n </div>\n </body>\n</html>"
+    },
+    "associations": {
+      "contactIds": [
+        146471337550
+      ],
+      "companyIds": [],
+      "dealIds": [],
+      "ownerIds": [],
+      "workflowIds": [],
+      "ticketIds": [],
+      "contentIds": [],
+      "quoteIds": [],
+      "marketingEventIds": [],
+      "partnerClientIds": [],
+      "orderIds": [],
+      "cartIds": []
+    },
+    "attachments": [],
+    "metadata": {
+      "from": {
+        "email": "tonnyweslleyss@gmail.com",
+        "firstName": "Tonny",
+        "lastName": "Weslley"
+      },
+      "to": [
+        {
+          "raw": "\"Tonny Weslley\" <tonnyweslley@outlook.com>",
+          "email": "tonnyweslley@outlook.com",
+          "firstName": "Tonny",
+          "lastName": "Weslley"
+        }
+      ],
+      "cc": [],
+      "bcc": [],
+      "sender": {
+        "email": "tonnyweslleyss@gmail.com"
+      },
+      "subject": "Abra Seu negocio",
+      "html": "<html>\n <head></head>\n <body>\n  <div style=\"font-family: sans-serif;color: #444444;\" dir=\"auto\" data-top-level=\"true\">\n   <p style=\"margin:0;\"><span style=\"font-size: 11pt;\">fala com a gente :)</span></p>\n   <br>\n   <br>\n   <div data-unsubscribe=\"true\" style=\"color: #33475b; font-family: sans-serif; font-weight: 400; font-size: 14px;\">\n    --\n    <br>\n    <span><span>Prefere receber menos e-mails de mim? Clique em</span>&nbsp;<a href=\"https://d5XVLW04.na1.hs-salescrm-sub.com/preferences/pt-br/manage?data=W2nXS-N30h-GnW1BDbg12Pw_SVW3_T9Kx4tkcc9W2zPDCg2TPdF7W3Fdv372FY2lRW2p5Stf41KS3vW2vMTF-3jf37SW3DT7x71ScnczW4mlHTf3dpTSKW3VG67P3ZP8DrW2TMtKj1NdHbgW3jwjGW3bgC8-W4kC_DC3N_99CW3QRKB038gMPcW3_HYmC2FrvDHW3SyrdL3LHmV1W4hDKNZ3LFc5SW2RtR5Z1Sb-Z0W4pG7k11Xx-gHW4kK1Pl3M9Q-LW3gfkXH21mZJwW3QzvY22B2njXW32q4pm3M2HRhW4rvCpH1Sxr70W2Thww72KSvfVW3SSgHh3dv1MFW4ph_My1QyyDzW1LnnJ03ZTJFjW1LC2Yl2FG7pBW30LJDG3VHhPtW3g7VWD2MXYxKW25gxVR3gwszVW2WGJrf4r6dbKW1N5F2r1Bp6YGW1BLZ6Q3Q_2l7W30DqcX3ZM56zW3d2gTq3h-3Lwf34f2wQ04\">aqui</a></span>\n   </div>\n   <div class=\"email-branding-component\" data-hs-branding=\"true\">\n    <div>\n     <img src=\"https://static.hsappstatic.net/hubspot-prosemirror-plugins/static-1.10884/images/sprocket-web-color.png\" style=\"display:inline-block;max-width:22px;vertical-align:middle\" width=\"22\" height=\"22\"> \n     <small style=\"color:#516f90;outline-color:#516f90;font-size:12px;line-height:1.125rem;font-family:apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;text-align:start;vertical-align:middle\"><span>Desenvolvido pela <a href=\"https://app.hubspot.com/signup-hubspot/sales?uuid=e9b46de2-5afc-422d-8ead-23faedbb89e3&amp;utm_medium=virality&amp;utm_campaign=hubspot-email-plugin-virality\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">HubSpot</a>.</span><span><img src=\"https://api.hubspot.com/viral-links/v1/tracking?viralLinkType=email-plugin&amp;deviceId=e9b46de2-5afc-422d-8ead-23faedbb89e3&amp;isExternalLink=true&amp;hubId=50370222\" style=\"display:none\"></span></small>\n    </div>\n   </div>\n  </div>\n </body>\n</html>",
+      "text": "fala com a gente :) \n\n-- \nPrefere receber menos e-mails de mim? Clique em aqui: https://d5XVLW04.na1.hs-salescrm-sub.com/preferences/pt-br/manage?data=W2nXS-N30h-S2W3T1jPk1Q2wjtW3S-NM21SbzMYW49JG553dzbH6W4pymnz43CpyWW1QvblW2PS3cTW211f6V4ktcmwW3VBMk72r5Jh0W2-qSZ44fwcF1W3jcSdf49vPFGW4fx0zZ1Z7YcVW2Hyv7g34rvBCW1XgRcR4tpsrTW41WnBf4mJRrjW4t7J5_1NxY_nW3KbsBf24W9ntW2-MMPP1VtpY2W3QCBGv3XW_4KW2CWFfW3JYLNZW3blMRd30C8VyW3LDmRq2qDr4_W3C6sRv2Yvns1W3jf-Nw3_v-g-W2qM3gV1LjDJWW3gsYpS34mJ2TW1Zg9481S8TMpW2xSfq221rm9jW3VJ7yp3bkRTRW47Ps-_43yXx0W2FYvMy2zx4pLW2zQsLh3Nzk0-W2D1JJs348Z__W2MMKpf3K3lGMW1LnMQq4p9NdTW2vYYqg2WwTPsW1Nt6T638zCcMW36zNgS1Xt7Jhf3-0Fdf04\nDesenvolvido pela HubSpot: https://app.hubspot.com/signup-hubspot/sales?uuid=e9b46de2-5afc-422d-8ead-23faedbb89e3&utm_medium=virality&utm_campaign=hubspot-email-plugin-virality.",
+      "trackerKey": "e5043e92-6580-4158-ad16-e904d3b1f01c",
+      "messageId": "CAJ6iC07goheHWK=D-qmUNNmiNAAN1N=m7JUkm-BS4Xa_iw05aA@mail.gmail.com",
+      "threadId": "fb3c9588058826282cd7aa5b68fafe59",
+      "status": "SENT",
+      "sentVia": "GMAIL",
+      "emailSendEventId": {},
+      "loggedFrom": "CRM",
+      "facsimileSendId": "1e9a1052391ab4196be77f33f60791ab",
+      "validationSkipped": [],
+      "postSendStatus": "SENT",
+      "mediaProcessingStatus": "SKIPPED",
+      "attachedVideoOpened": false,
+      "attachedVideoWatched": false,
+      "pendingInlineImageIds": [],
+      "bounceErrorDetail": {},
+      "ownerIdsFrom": [
+        82389063
+      ],
+      "ownerIdsTo": [],
+      "ownerIdsCc": [],
+      "ownerIdsBcc": [],
+      "associatedContactId": 146471337550,
+      "incomingEmailIsOutOfOffice": false,
+      "appId": 22712
+    }
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "Desafio Elephan",
+    "description": "Teste técnico para vaga de desenvolvedor backend na Elephan"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:8000"
+    }
+  ],
+  "paths": {
+    "/api/v1/insights/": {
+      "post": {
+        "tags": [
+          "Insights"
+        ],
+        "summary": "Returns insights for a specific user",
+        "description": "This endpoint will return insights for a specific user based on their marketing service and AI agent.",
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/insightRequest"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "insightRequest": {
+        "type": "object",
+        "properties": {
+          "marketing_service": {
+            "type": "string",
+            "example": "hubspot"
+          },
+          "ai_agent": {
+            "type": "string",
+            "example": "gemini"
+          },
+          "marketing_service_token": {
+            "type": "string",
+            "example": "jhkDJ323-jdhadkj@-kfaslfkjha"
+          }
+        },
+        "required": [
+          "marketing_service",
+          "ai_agent",
+          "marketing_service_token"
+        ]
+      }
+    }
+  }
+}
